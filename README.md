@@ -1,4 +1,4 @@
-# yolov7c
+# YOLOv7
 This project implements a real time object detection via video and image detection using YOLOv7 algorithm. 
 The model is trained using two classes 'Man' and 'Women'. 
 
