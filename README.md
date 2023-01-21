@@ -14,5 +14,8 @@ The model is trained using two classes 'Man' and 'Women'.
 
 
 
-https://user-images.githubusercontent.com/74849642/213868277-78b07ed6-c397-4a5b-a219-73dd893446e1.mp4
+https://user-images.githubusercontent.com/74849642/213868372-91249115-0539-4618-aac2-6c5a70195361.mp4
+
+
+
 
